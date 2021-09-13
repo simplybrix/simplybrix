@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @simplybrix
 - 👀 I’m interested in Game Design, User-Centered Design, and Game Development.
 - 🌱 I’m currently learning C#, Python, and Game Design.
-- 💞️ I’m looking to collaborate on Game development projects to add to my portfolio.
-- 📫 You can reach me on linkedin, handshake, or via my instagram.
+- 💞️ I’m looking to collaborate on game development projects to add to my portfolio.
+- 📫 You can reach me on linkedin, handshake, or by email.
 
 <!---
 simplybrix/simplybrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
